@@ -1,0 +1,6 @@
+
+    python is a high-level, interpreted language.
+    Key Features:
+    - Easy to learn and use
+    - Extensive Library Support
+    
